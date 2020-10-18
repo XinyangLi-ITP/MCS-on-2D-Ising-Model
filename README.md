@@ -2,6 +2,7 @@
 This is a C++ program and some related materials.
 The C++ program is to calculate some physical quantities in ferromagnetic phase transition of 2D ising model.
 Two pdf files are detailed notes and results related to this program.
+If the PDF file cannot be opened on this page, please click 'Go to file' to read it.
 
 The size of the system is given by the parameter you pass from the command line.
 For example you can input ./a.out 20 on the command line,
