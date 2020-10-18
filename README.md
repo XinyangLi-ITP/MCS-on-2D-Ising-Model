@@ -1,5 +1,8 @@
 # MCS-on-2D-Ising-Model
-This is a C++ program to calculate some physical quantities in ferromagnetic phase transition of 2D ising model and some related materials .
+This is a C++ program and some related materials.
+The C++ program is to calculate some physical quantities in ferromagnetic phase transition of 2D ising model.
+Two pdf files are detailed notes and results related to this program.
+
 The size of the system is given by the parameter you pass from the command line.
 For example you can input ./a.out 20 on the command line,
 then you create a configuration containing 20*20 spins.
