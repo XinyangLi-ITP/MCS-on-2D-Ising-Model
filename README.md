@@ -15,4 +15,4 @@ so you can modify the loop scope appropriately when calculating them.
 
 The codes were developed Xinyang Li，from Yuliang Jin's research group (http://home.itp.ac.cn/~yuliangjin/) 
 at Institute of Theoretical Physics, Chinese Academy of Sciences. 
-Please contact the developers,Xinyang Li (lixinyang@mail.itp.ac.cn) for questions.
+Please contact the developer,Xinyang Li (lixinyang@mail.itp.ac.cn) for questions.
