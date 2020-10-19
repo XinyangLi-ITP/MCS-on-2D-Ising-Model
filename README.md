@@ -13,7 +13,6 @@ but for some quantities such as correlation function,
 a few temperature will be enough,
 so you can modify the loop scope appropriately when calculating them.
 
-The codes were developed by Yuliang Jin's research group (http://home.itp.ac.cn/~yuliangjin/) 
+The codes were developed Xinyang Li，from Yuliang Jin's research group (http://home.itp.ac.cn/~yuliangjin/) 
 at Institute of Theoretical Physics, Chinese Academy of Sciences. 
-Please contact the developers,Xinyang Li (lixinyang@mail.itp.ac.cn) 
-or Dr. Yuliang Jin (yuliangjin@mail.itp.ac.cn) for questions.
+Please contact the developers,Xinyang Li (lixinyang@mail.itp.ac.cn) for questions.
